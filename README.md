@@ -101,3 +101,4 @@ sh run_pred.sh
 
 04/27/2020 13:42:37 - INFO - __main__ -     Num steps = 33894
 
+EMNLP2020论文：SRLGRN: Semantic Role Labeling Graph Reasoning Network 的开源代码
